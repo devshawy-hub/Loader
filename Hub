@@ -1,4 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/devshawy-hub/AxeusHub/refs/heads/main/SurviveTheElevator"))()
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/2ee39d5a7677f36389fb9742354d23bd383f23fff1cfe40f02e87f66e605da67/download"))()
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/dd920b3300044723ee947ccc4ae1e4113af95bf72c3f18491c4fee3357c4292c/download"))()
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/dd920b3300044723ee947ccc4ae1e4113af95bf72c3f18491c4fee3357c4292c/download"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slurkyz/counterblox/refs/heads/main/main.lua"))()
