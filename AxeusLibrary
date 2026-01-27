@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5480d17e9691d8b77b2269da5eca6dde97360c40004b110e8abc661aab5a1554/download"))()
+  task.wait(0.3)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slurkyz/counterblox/refs/heads/main/main.lua"))()
